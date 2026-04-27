@@ -12,5 +12,5 @@ This is a personal virtual assistant developed in *Python*.
 - Python
 - GitHub for version control
 
-## 👩‍💻 About Me
+##  About Me
 I'm a transitioning IT professional focused on *Data Analysis*.
