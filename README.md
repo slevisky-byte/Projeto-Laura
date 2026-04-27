@@ -1,7 +1,6 @@
-# Projeto-Laura
-Assistente virtual desenvolvida em Python
-# Projeto Laura - Virtual Assistant 🚀
 
+# Projeto Laura - Virtual Assistant 🚀
+Assistente virtual desenvolvida em Python
 This is a personal virtual assistant developed in *Python*. 
 
 ## ✨ Features
